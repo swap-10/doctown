@@ -1,0 +1,10 @@
+{
+  "short_name": "Doctown",
+  "name": "Doctown: A social platform for healthcare professionals",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
